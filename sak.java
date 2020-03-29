@@ -65,7 +65,6 @@ class sak
                     System.out.println("-------------Parsing-------------");
                     requestIndex.readURL("https://thunderbird-index.azurewebsites.net/w0a6zk195e.json");
                     requestIndex.readURL("https://thunderbird-index.azurewebsites.net/w0a6zk195f.json");
-                    System.out.println("https://thunderbird-index.azurewebsites.net/w0a6zk195f.json");
                     requestIndex.readURL("https://thunderbird-index.azurewebsites.net/no-last-name.json");
                     requestIndex.readURL("https://thunderbird-index.azurewebsites.net/too-short-a-last-name.json");
                     
